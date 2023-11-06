@@ -10,7 +10,7 @@ The "mpg" dataset, also known as the "Auto MPG" dataset, is a popular dataset in
 
 ## Key Details
 
-- **Dataset:** [mpg dataset](link_to_mpg_dataset)
+- **Dataset:** [mpg dataset]([)](http://localhost:8888/lab?)
 - **Analysis Tool:** Python Pandas
 - **Analysis Focus:** Exploratory Data Analysis (EDA) and Data Visualization
 
