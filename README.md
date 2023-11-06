@@ -14,11 +14,13 @@ The "mpg" dataset, also known as the "Auto MPG" dataset, is a popular dataset in
 - **Analysis Tool:** Python Pandas
 - **Analysis Focus:** Exploratory Data Analysis (EDA) and Data Visualization
 
+<img width="947" alt="Screenshot 2023-11-06 at 15 25 05" src="https://github.com/PaulIsmael/Python/assets/150025834/d63383fb-ff70-4afb-875b-c1e9ae2b9fcf">
+
+
 ## Key Files
 
 - [main.ipynb](link_to_main_notebook): The Jupyter Notebook containing the data analysis code.
-- [data.csv]([link_to_data_csv](http://localhost:8888/lab?)): The dataset used for analysis.
-
+- [data.csv]("https://static.anaconda.cloud/shared/lms/data_analysis/Intro_to_pandas_data_analysis/assets/mpg.csv
 ## How to Use
 
 To replicate the analysis and explore the insights:
